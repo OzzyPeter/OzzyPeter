@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning to code for two years, starting with HTML, CSS, and JavaScript before transitioning into backend development. I'm currently a Python developer working with Flask, FastAPI, SQL, PostgreSQL, and REST APIs, while continuously building projects and exploring open source.
+I'm a Python developer focused on backend development, working with Flask, FastAPI, SQL, PostgreSQL, and REST APIs. I started with HTML, CSS, and JavaScript before transitioning into backend development. I'm also almost in my fourth year in University, studying Industrial Mathematics (Computer Science option), while continuously building projects and exploring open source.
+
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [oziomapeter12@gmail.com](mailto:oziomapeter12@gmail.com)
